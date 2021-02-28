@@ -1,0 +1,4 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\StringFormat\bin\Debug\StringFormat.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\StringFormat\bin\Debug\StringFormat.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\StringFormat\obj\x86\Debug\StringFormat.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\StringFormat\obj\x86\Debug\StringFormat.pdb

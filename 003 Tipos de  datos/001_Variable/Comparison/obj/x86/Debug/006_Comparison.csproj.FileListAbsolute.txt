@@ -1,0 +1,4 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\Comparison\bin\Debug\Comparison.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\Comparison\bin\Debug\Comparison.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\Comparison\obj\x86\Debug\Comparison.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\Comparison\obj\x86\Debug\Comparison.pdb

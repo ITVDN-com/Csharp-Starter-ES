@@ -1,0 +1,4 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\Alias\bin\Debug\Alias.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\Alias\bin\Debug\Alias.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\Alias\obj\x86\Debug\Alias.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\Alias\obj\x86\Debug\Alias.pdb

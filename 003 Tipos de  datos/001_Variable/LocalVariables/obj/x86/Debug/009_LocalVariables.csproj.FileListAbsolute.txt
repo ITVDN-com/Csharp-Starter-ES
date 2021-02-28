@@ -1,0 +1,4 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\LocalVariables\bin\Debug\LocalVariables.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\LocalVariables\bin\Debug\LocalVariables.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\LocalVariables\obj\x86\Debug\LocalVariables.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\LocalVariables\obj\x86\Debug\LocalVariables.pdb

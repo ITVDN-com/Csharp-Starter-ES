@@ -1,0 +1,4 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\Assignment\bin\Debug\Assignment.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\Assignment\bin\Debug\Assignment.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\Assignment\obj\x86\Debug\Assignment.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\Assignment\obj\x86\Debug\Assignment.pdb

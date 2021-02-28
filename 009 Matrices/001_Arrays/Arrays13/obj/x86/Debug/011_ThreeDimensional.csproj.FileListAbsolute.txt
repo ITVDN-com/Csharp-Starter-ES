@@ -1,0 +1,5 @@
+D:\final itvdn C# STARTER I(ES)\009 Matrices\001_Arrays\Arrays13\obj\x86\Debug\Arrays13.exe
+D:\final itvdn C# STARTER I(ES)\009 Matrices\001_Arrays\Arrays13\obj\x86\Debug\Arrays13.pdb
+D:\final itvdn C# STARTER I(ES)\009 Matrices\001_Arrays\Arrays13\bin\Debug\Arrays13.exe
+D:\final itvdn C# STARTER I(ES)\009 Matrices\001_Arrays\Arrays13\bin\Debug\Arrays13.pdb
+D:\final itvdn C# STARTER I(ES)\009 Matrices\001_Arrays\Arrays13\obj\x86\Debug\011_ThreeDimensional.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\005 Operadores Lógicos\001_Logic\ShortLogicComputing9\bin\Debug\ShortLogicComputing9.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\005 Operadores Lógicos\001_Logic\ShortLogicComputing9\bin\Debug\ShortLogicComputing9.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\005 Operadores Lógicos\001_Logic\ShortLogicComputing9\obj\x86\Debug\ShortLogicComputing9.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\005 Operadores Lógicos\001_Logic\ShortLogicComputing9\obj\x86\Debug\ShortLogicComputing9.pdb

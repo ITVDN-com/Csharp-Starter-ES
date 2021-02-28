@@ -1,0 +1,4 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\005 Operadores Lógicos\001_Logic\Logic2\bin\Debug\Logic2.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\005 Operadores Lógicos\001_Logic\Logic2\bin\Debug\Logic2.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\005 Operadores Lógicos\001_Logic\Logic2\obj\x86\Debug\Logic2.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\005 Operadores Lógicos\001_Logic\Logic2\obj\x86\Debug\Logic2.pdb

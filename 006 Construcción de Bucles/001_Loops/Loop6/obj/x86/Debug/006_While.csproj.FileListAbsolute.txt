@@ -1,0 +1,4 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\006 Construcción de Bucles\001_Loops\Loop6\bin\Debug\Loop6.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\006 Construcción de Bucles\001_Loops\Loop6\bin\Debug\Loop6.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\006 Construcción de Bucles\001_Loops\Loop6\obj\x86\Debug\Loop6.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\006 Construcción de Bucles\001_Loops\Loop6\obj\x86\Debug\Loop6.pdb

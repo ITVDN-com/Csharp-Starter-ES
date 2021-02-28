@@ -1,0 +1,4 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\FloatDoubleDecimal\bin\Debug\FloatDoubleDecimal.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\FloatDoubleDecimal\bin\Debug\FloatDoubleDecimal.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\FloatDoubleDecimal\obj\x86\Debug\FloatDoubleDecimal.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\FloatDoubleDecimal\obj\x86\Debug\FloatDoubleDecimal.pdb

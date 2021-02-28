@@ -1,0 +1,4 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\007 Métodos\001_Methods\Methods\bin\Debug\Methods.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\007 Métodos\001_Methods\Methods\bin\Debug\Methods.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\007 Métodos\001_Methods\Methods\obj\x86\Debug\Methods.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\007 Métodos\001_Methods\Methods\obj\x86\Debug\Methods.pdb

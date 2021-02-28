@@ -1,0 +1,4 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\FlagFormating\bin\Debug\FlagFormating.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\FlagFormating\bin\Debug\FlagFormating.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\FlagFormating\obj\x86\Debug\FlagFormating.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\FlagFormating\obj\x86\Debug\FlagFormating.pdb

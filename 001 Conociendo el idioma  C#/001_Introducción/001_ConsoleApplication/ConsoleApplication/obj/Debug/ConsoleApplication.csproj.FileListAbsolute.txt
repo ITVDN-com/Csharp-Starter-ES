@@ -1,0 +1,9 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\001 Conociendo el idioma  C#\001_Introducción\001_ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\001 Conociendo el idioma  C#\001_Introducción\001_ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\001 Conociendo el idioma  C#\001_Introducción\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+F:\itvdn C# FINAL(es)\C# Starter ES\001 Conociendo el idioma  C#\001_Introducción\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\001 Conociendo el idioma  C#\001_Introducción\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Edward\Desktop\001 Conociendo el idioma  C#\001 Conociendo el idioma  C#\001_Introducción\001_ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Edward\Desktop\001 Conociendo el idioma  C#\001 Conociendo el idioma  C#\001_Introducción\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Edward\Desktop\001 Conociendo el idioma  C#\001 Conociendo el idioma  C#\001_Introducción\001_ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\001 Conociendo el idioma  C#\001_Introducción\001_ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config

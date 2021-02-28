@@ -1,0 +1,4 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\CheckedUnChecked\bin\Debug\CheckedUnChecked.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\CheckedUnChecked\bin\Debug\CheckedUnChecked.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\CheckedUnChecked\obj\x86\Debug\CheckedUnChecked.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\CheckedUnChecked\obj\x86\Debug\CheckedUnChecked.pdb

@@ -1,0 +1,2 @@
+D:\final itvdn C# STARTER I(ES)\009 Matrices\001_Arrays\Arrays16\obj\x86\Debug\Arrays16.exe
+D:\final itvdn C# STARTER I(ES)\009 Matrices\001_Arrays\Arrays16\obj\x86\Debug\Arrays16.pdb

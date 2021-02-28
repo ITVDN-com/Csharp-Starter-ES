@@ -1,0 +1,12 @@
+D:\CS_Starter_RU\008_Methods\001_Methods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\CS_Starter_RU\008_Methods\001_Methods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\CS_Starter_RU\008_Methods\001_Methods\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\CS_Starter_RU\008_Methods\001_Methods\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\CS_Starter_RU\008_Methods\001_Methods\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\CS_Starter_RU\008_Methods\001_Methods\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\final itvdn C# STARTER I(ES)\008 Métodos\001_Methods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\final itvdn C# STARTER I(ES)\008 Métodos\001_Methods\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\final itvdn C# STARTER I(ES)\008 Métodos\001_Methods\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\final itvdn C# STARTER I(ES)\008 Métodos\001_Methods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\final itvdn C# STARTER I(ES)\008 Métodos\001_Methods\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\final itvdn C# STARTER I(ES)\008 Métodos\001_Methods\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

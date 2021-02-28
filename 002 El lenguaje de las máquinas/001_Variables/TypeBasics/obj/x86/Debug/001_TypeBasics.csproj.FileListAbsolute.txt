@@ -1,0 +1,4 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\TypeBasics\bin\Debug\TypeBasics.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\TypeBasics\bin\Debug\TypeBasics.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\TypeBasics\obj\x86\Debug\TypeBasics.pdb

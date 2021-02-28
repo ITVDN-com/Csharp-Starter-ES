@@ -1,0 +1,4 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\DefaultValues\bin\Debug\DefaultValues.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\DefaultValues\bin\Debug\DefaultValues.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\DefaultValues\obj\x86\Debug\DefaultValues.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\002 El lenguaje de las máquinas\001_Variables\DefaultValues\obj\x86\Debug\DefaultValues.pdb

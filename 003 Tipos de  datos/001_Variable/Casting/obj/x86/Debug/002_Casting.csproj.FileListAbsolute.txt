@@ -1,0 +1,5 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\Casting\bin\Debug\Casting.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\Casting\bin\Debug\Casting.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\Casting\obj\x86\Debug\002_Casting.csprojResolveAssemblyReference.cache
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\Casting\obj\x86\Debug\Casting.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\Casting\obj\x86\Debug\Casting.pdb

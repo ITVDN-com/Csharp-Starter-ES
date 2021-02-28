@@ -1,0 +1,5 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\MathPow\bin\Debug\ConsoleApplication1.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\MathPow\bin\Debug\ConsoleApplication1.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\MathPow\obj\x86\Debug\004_MathPow.csprojResolveAssemblyReference.cache
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\MathPow\obj\x86\Debug\ConsoleApplication1.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\MathPow\obj\x86\Debug\ConsoleApplication1.pdb

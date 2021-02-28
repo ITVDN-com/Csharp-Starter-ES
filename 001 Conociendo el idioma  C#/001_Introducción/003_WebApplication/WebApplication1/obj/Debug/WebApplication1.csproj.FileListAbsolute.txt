@@ -1,0 +1,11 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\001 Conociendo el idioma  C#\001_Introducción\003_WebApplication\WebApplication1\bin\WebApplication1.dll
+F:\itvdn C# FINAL(es)\C# Starter ES\001 Conociendo el idioma  C#\001_Introducción\003_WebApplication\WebApplication1\bin\WebApplication1.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\001 Conociendo el idioma  C#\001_Introducción\003_WebApplication\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\itvdn C# FINAL(es)\C# Starter ES\001 Conociendo el idioma  C#\001_Introducción\003_WebApplication\WebApplication1\obj\Debug\WebApplication1.dll
+F:\itvdn C# FINAL(es)\C# Starter ES\001 Conociendo el idioma  C#\001_Introducción\003_WebApplication\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Edward\Desktop\001 Conociendo el idioma  C#\001 Conociendo el idioma  C#\001_Introducción\003_WebApplication\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Edward\Desktop\001 Conociendo el idioma  C#\001 Conociendo el idioma  C#\001_Introducción\003_WebApplication\WebApplication1\bin\WebApplication1.dll
+C:\Users\Edward\Desktop\001 Conociendo el idioma  C#\001 Conociendo el idioma  C#\001_Introducción\003_WebApplication\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Edward\Desktop\001 Conociendo el idioma  C#\001 Conociendo el idioma  C#\001_Introducción\003_WebApplication\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\001 Conociendo el idioma  C#\001 Conociendo el idioma  C#\001_Introducción\003_WebApplication\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Edward\Desktop\001 Conociendo el idioma  C#\001 Conociendo el idioma  C#\001_Introducción\003_WebApplication\WebApplication1\obj\Debug\WebApplication1.pdb

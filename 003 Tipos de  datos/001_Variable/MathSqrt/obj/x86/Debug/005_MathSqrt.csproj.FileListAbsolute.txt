@@ -1,0 +1,5 @@
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\MathSqrt\bin\Debug\ConsoleApplication2.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\MathSqrt\bin\Debug\ConsoleApplication2.pdb
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\MathSqrt\obj\x86\Debug\005_MathSqrt.csprojResolveAssemblyReference.cache
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\MathSqrt\obj\x86\Debug\ConsoleApplication2.exe
+F:\itvdn C# FINAL(es)\C# Starter ES\003 Tipos de  datos\001_Variable\MathSqrt\obj\x86\Debug\ConsoleApplication2.pdb
